@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile!
-
 ## About Me
 👋 Hello there! I'm Muhammad Hayyan, a passionate and dedicated student pursuing a Bachelor's in Cyber Security at FAST-NUCES Islamabad. With a keen interest in cyber security, I am constantly exploring new avenues to expand my knowledge and skills in this dynamic field.
 
