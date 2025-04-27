@@ -64,9 +64,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" height="150"/>
 </div>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=redical" height="200" />
-</div>
 
 ---
 
